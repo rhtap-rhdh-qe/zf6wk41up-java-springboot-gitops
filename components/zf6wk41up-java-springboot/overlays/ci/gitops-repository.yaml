@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zf6wk41up-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zf6wk41up-java-springboot-gitops
